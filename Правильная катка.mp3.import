@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Правильная катка.mp3-4e7506d6da043b0dcb1c7456062cdfe0.mp3str"
+
+[deps]
+
+source_file="res://Правильная катка.mp3"
+dest_files=[ "res://.import/Правильная катка.mp3-4e7506d6da043b0dcb1c7456062cdfe0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
