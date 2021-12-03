@@ -52,7 +52,7 @@ RestHandler="*res://addons/github-integration/scenes/RestHandler.tscn"
 [display]
 
 window/size/width=1820
-window/size/height=995
+window/size/height=1065
 
 [editor_plugins]
 
